@@ -81,7 +81,7 @@ th { background:#f8f9fc; }
            value="<?= htmlspecialchars($_POST['dni'] ?? '') ?>"
            style="padding:8px; width:200px;">
     <button class="btn btn-blue" name="buscar_dni">Buscar</button>
-    <a href="index.php" class="btn btn-red">Volver</a>
+    <a href="index.html" class="btn btn-red">Volver</a>
 </form>
 
 <?php if ($alumno): ?>

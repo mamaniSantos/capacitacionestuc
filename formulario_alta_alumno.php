@@ -143,7 +143,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
         <div class="actions">
             <button type="submit" class="primary">Registrar Alumno</button>
-            <a class="link" href="index.php">⬅ Volver al Menú</a>
+            <a class="link" href="index.html">⬅ Volver al Menú</a>
         </div>
     </form>
 

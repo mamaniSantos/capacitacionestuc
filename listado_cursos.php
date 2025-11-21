@@ -126,7 +126,7 @@ $cursos = $conn->query("SELECT * FROM cursos_tuc ORDER BY nombre_curso ASC");
         <div class="actions-top">
             <h2>Listado de Cursos</h2>
             <div>
-                <a class="btn" href="index.php">⬅ Volver</a>
+                <a class="btn" href="index.html">⬅ Volver</a>
             </div>
         </div>
 

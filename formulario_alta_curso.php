@@ -105,7 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 $conn->close();
 ?>
 
-<a href="index.php" class="volver">⬅ Volver al Menú Principal</a>
+<a href="index.html" class="volver">⬅ Volver al Menú Principal</a>
 </div>
 
 </body>

@@ -141,7 +141,7 @@ if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
                 <div class="actions">
                     <button type="submit" class="primary">Registrar pago</button>
                     <a class="btn" href="gestion_pagos.php">Ir a gestión</a>
-                    <a class="btn" href="index.php">Volver al menú principal</a>
+                    <a class="btn" href="index.html">Volver al menú principal</a>
                 </div>
             </div>
         </div>

@@ -120,7 +120,7 @@ if ($resultado->num_rows > 0) {
 $conn->close();
 ?>
 
-<a href="index.php" class="volver">⬅ Volver al Menú Principal</a>
+<a href="index.html" class="volver">⬅ Volver al Menú Principal</a>
 <a href="editar_alumno.php" class="volver">⬅ Editar alumnos</a>
 
 </body>

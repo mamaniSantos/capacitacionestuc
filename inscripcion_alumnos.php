@@ -102,7 +102,7 @@ $cursos  = $conn->query("SELECT id_curso, nombre_curso FROM cursos_tuc ORDER BY 
         </select>
 
         <button type="submit">Inscribir</button>
-        <a class="btn" href="index.php">Volver al menú</a>
+        <a class="btn" href="index.html">Volver al menú</a>
 
     </form>
 </div>

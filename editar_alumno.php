@@ -155,7 +155,7 @@ $alumnos = $conn->query("SELECT * FROM $tabla ORDER BY $apellido_col ASC");
 
         <div class="actions-top">
             <h2>Listado de Alumnos</h2>
-            <a class="btn" href="index.php">⬅ Volver</a>
+            <a class="btn" href="index.html">⬅ Volver</a>
         </div>
 
         <!-- TABLA -->
